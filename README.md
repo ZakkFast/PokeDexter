@@ -36,6 +36,6 @@ WIP
 - [LinkedIn](https://www.linkedin.com/in/zachary-fast/)
 - Email: webdev@zakkfast.com)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZakkFast&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZakkFast&theme=dark)](https://github.com/ZakkFast)
 
 [![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io) 
