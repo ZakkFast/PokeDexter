@@ -1,0 +1,24 @@
+{
+  "name": "pokedexter",
+  "version": "1.0.0",
+  "description": "An app to look up pokemon and all their data including images of sprites used in the Pokemon games'",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZakkFast/PokeDexter.git"
+  },
+  "author": "Zakk Fast",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZakkFast/PokeDexter/issues"
+  },
+  "homepage": "https://github.com/ZakkFast/PokeDexter#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "express": "^4.17.1"
+  }
+}
